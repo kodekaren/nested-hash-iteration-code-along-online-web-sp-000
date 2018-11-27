@@ -22,3 +22,4 @@ data.each do |attribute, info|
 end
 end
 end
+end
